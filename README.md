@@ -1,1 +1,1 @@
-Mini mayın tarlası oyunu yazıldı.
+Mini minefield game was written.
